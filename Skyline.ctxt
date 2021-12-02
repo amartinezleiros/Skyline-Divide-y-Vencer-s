@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Skyline
+comment1.params=edificios
+comment1.target=java.util.ArrayList\ dividir(java.util.ArrayList)
+comment2.params=LDL1\ LDL2
+comment2.target=java.util.ArrayList\ Combinar(java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

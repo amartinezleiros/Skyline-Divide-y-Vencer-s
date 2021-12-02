@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Edificio
+comment1.params=x1\ x2\ h
+comment1.target=Edificio(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getx1()
+comment3.params=
+comment3.target=int\ getx2()
+comment4.params=
+comment4.target=int\ geth()
+comment5.params=
+comment5.target=void\ print()
+numComments=6

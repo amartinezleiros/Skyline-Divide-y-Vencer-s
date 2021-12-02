@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Grafico1
+comment1.params=P
+comment1.target=Grafico1(java.util.ArrayList)
+comment1.text=\r\n\ Create\ the\ frame.\r\n
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+numComments=3
